@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Aplikasi sewa mobil</string>
+    <string-array name="pelanggan">
+        <item>Coba 1</item>
+        <item>Coba 2</item>
+        <item>Coba 3</item>
+    </string-array>
+</resources>
