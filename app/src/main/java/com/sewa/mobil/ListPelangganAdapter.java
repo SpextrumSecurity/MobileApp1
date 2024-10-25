@@ -16,6 +16,8 @@ import java.util.List;
 public class ListPelangganAdapter extends BaseAdapter {
 
     private Context context;
+
+    private TextName textname;
     private List<Pelanggan> pelanggans = new ArrayList<>();
     private TextView lblNama, lblTelp;
 
